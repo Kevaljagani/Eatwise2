@@ -12,3 +12,4 @@ various foods and calculates the calories considering their size with around
 ![Alt text](https://github.com/Kevaljagani/Eatwise2/blob/main/Video%20and%20screenshot/WhatsApp%20Image%202022-11-07%20at%209.48.39%20PM%20(1).jpeg "Optional title")
 ![Alt text](https://github.com/Kevaljagani/Eatwise2/blob/main/Video%20and%20screenshot/WhatsApp%20Image%202022-11-07%20at%209.48.39%20PM%20(2).jpeg "Optional title")
 ![Alt text](https://github.com/Kevaljagani/Eatwise2/blob/main/Video%20and%20screenshot/WhatsApp%20Image%202022-11-07%20at%209.48.39%20PM.jpeg "Optional title")
+![Alt text](https://github.com/Kevaljagani/Eatwise2/blob/main/Video%20and%20screenshot/Screenshot%202022-11-07%20at%2010.48.20%20PM.png "Optional title")
